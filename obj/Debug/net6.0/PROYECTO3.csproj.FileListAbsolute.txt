@@ -1,0 +1,15 @@
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\bin\Debug\net6.0\PROYECTO3.exe
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\bin\Debug\net6.0\PROYECTO3.deps.json
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\bin\Debug\net6.0\PROYECTO3.runtimeconfig.json
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\bin\Debug\net6.0\PROYECTO3.dll
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\bin\Debug\net6.0\PROYECTO3.pdb
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.AssemblyInfo.cs
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.dll
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\refint\PROYECTO3.dll
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.pdb
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\PROYECTO3.genruntimeconfig.cache
+C:\Users\charl\Desktop\PROYECTO3\PROYECTO3\obj\Debug\net6.0\ref\PROYECTO3.dll
